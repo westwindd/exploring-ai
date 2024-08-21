@@ -1,0 +1,3711 @@
+[
+  {
+    "team_name": "3C+",
+    "users": [
+      {
+        "user_name": "Junior Andrade",
+        "tasks": [
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "Nome do agente (como uma tag no whats)",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "Registro de histórico no WhatsApp",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "Registro de histórico no WhatsApp",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "Agendar mensagens",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "Agendar mensagens",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "Importação em massa no Whatsapp",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Agendamento de mensagem wpp",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Rian Lucas ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "BOT PÓS ATENDIMENTO",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Notificação de ligação perdida no whatsapp",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Encerrar conversas em massa ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Importação em massa no Whatsapp",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Nome do agente (como uma tag no whats)",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Chat interno entre gestor e agente.",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Chat Bot",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Pré Aprovação SMS",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Salvar contatos no Whatsapp com enter ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Agendar mensagens",
+            "due_date": "1717052400000"
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Registro de histórico no WhatsApp",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Criar gerador de link do whats imbutido",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Chat gestor e agente",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "Rennov",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "Quero Quero",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "Grupo Renac",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "Grupo Renac",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Henrique Kleine Ribeiro",
+        "tasks": [
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "Falar com o operador independente do modo",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "Aba de listagem na mesma campanha ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "Mostrar status de receptivo ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "Softphone 3C",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "MELHORIA | Agentes",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Icelog",
+            "task_name": "Protocolo da ligação ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Filtros de relatórios",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "ESTRUTURA DE CAMPANHAS",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Receba ligações no status manual",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "TERMOS DE USO DA 3C+ NO LOGIN DE GESTOR ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Adicionar nome para identificar um webhook",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "ter uma confirmação  de visualização do feed back",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Ambiente Operador - Dashboard - Nome dos clientes nas últimas ligações da Dashboard do Agente",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Ter acompanhamento de mais de uma campanha",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Regra de prioridade na entrega de ligações ativas no discador",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Filtro de buscar por equipe no relatório de ligações",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Modo reciclagem puxar a última qualificação",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Retirar o botão de Whatsapp da tela do agente",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Supervisor te acesso a todos os relatórios",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Lista de bloqueio para campanha específica ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Aumentar o período de buscar no relatório de ligações ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "tirar agente do intervalo no front novo ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Protocolo da ligação ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Falar com o operador independente do modo",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Adicionar a visualização do TPA no Modo Manual",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Criação de campos para criação de rota e receptivo",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Aparecer na Dash telefone ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Tag de Ura pós atendimento em  chamadas ativas ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Gestor altrerar a qualificação de uma chamada",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Ura Ativa ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Mostrar status de receptivo ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Burnout de Mailing - Grafico",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Softphone 3C",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Transferência de chamadas ativas",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Peso da lista",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Qualificações ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Ideia sobre os relatórios conseguirem buscar por mais de uma campanha ou por 2 ou 3 simultaneamente ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Remoção da lupa dentro do cobmais",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Pop-up gestor",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Alteração na lista sem remover",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "KPI's e objetivos",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Inserir scripts Analytics e Clarity na minimaLista",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "A&C",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Henrique Marques Amorim",
+        "tasks": [
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Relatório de Aproveitamento aparecer para os supervisores",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Blacklist automática ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Consulta de filtro inteligente geral. ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "+ tempo para pressionar tecla da URA ativa",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "DASH > RELATÓRIO DE GASTOS cliente minutagem",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Tirar o limite de 1440 min na renitência (Sugestão Aros Negócios) ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "App em celular para gestão",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "GomesCobra",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "Original Cob",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Matheus Mazurechen Barros",
+        "tasks": [
+          {
+            "project_name": "FI | Sugestões",
+            "task_name": "Inserir um filtro no bugs controle para o analista que abriu o chamado. ",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "tarefa teste",
+            "due_date": null
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Inserir CAPTCHA para evitar spam",
+            "due_date": null
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Substituir merlin pelo whats da 3C e Integrar com o SDR IA",
+            "due_date": "1721199600000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Amplitude",
+            "due_date": "1721372400000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Implementação de eventos na aplicação",
+            "due_date": "1719385200000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Acompanhar a criação da conta bancária da empresa",
+            "due_date": "1717657200000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Criar conta no Stripe",
+            "due_date": "1716879600000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Contratar um dev",
+            "due_date": "1716966000000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Registrar domínio da empresa",
+            "due_date": "1712646000000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Enviar mensagem em comunidades DEV",
+            "due_date": null
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Código - Blog da Acessio",
+            "due_date": "1725001200000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Abordar clientes Enterprise 3C+",
+            "due_date": "1724137200000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Licenças Elementor / Domínio",
+            "due_date": "1724223600000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Diogit com os desenvolvedores",
+            "due_date": "1724050800000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Entrevistas Diogit",
+            "due_date": "1723791600000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Orçamento domínio + Elementor",
+            "due_date": "1723100400000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Estudo da implementação do Teams",
+            "due_date": "1723186800000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Apresentação do escopo de trabalho | Tamara e João",
+            "due_date": "1722495600000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Pensar em um Webinar sobre RH e gestão de pessoas",
+            "due_date": "1722841200000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Validar parceria com Influenciadores",
+            "due_date": "1723791600000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Palestras Squad Lab",
+            "due_date": "1725001200000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Estruturação",
+            "due_date": "1723791600000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Regras de negócio da aplicação",
+            "due_date": "1722582000000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Entrega de todas as telas google",
+            "due_date": "1722409200000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Entrevistas com usuários para entender o pmf das ferramentas",
+            "due_date": "1725001200000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Personas | Desenvolvimento",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Alexander Eduardo Dos Reis",
+        "tasks": [
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "Vivaz",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Camila Brunetti",
+        "tasks": [
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "JAM SERVIÇOS FINANCEIROS",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "Norton Nunes",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "Banco Mercantil",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Sabrina Nascimento Lopes",
+        "tasks": [
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "Paschoalloto",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Camila Souza de Oliveira",
+        "tasks": [
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "Calcard - Ouze - ID 6986",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "A. COSTA CONTACT CENTER - ID 6092",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "Rede Brasil",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Acompanhamento Multisetorial",
+            "task_name": "GRUPO BNS - ID 5322",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Sandra Siqueira",
+        "tasks": [
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Intervalos - Solicitar Retorno - Operador fica travado no status \"Retorno Solicitado\", mesmo após o gestor ter liberado ele - Cliente ID 8493 MADM NEGOCIOS ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "SOLICITAÇÃO | Histórico de alterações - PABX - Cliente deseja saber qual gestor realizou uma alteração no PABX - Cliente ID 7732 Facto Cobrança ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "DÚVIDA | RENITENCIA - TENTATIVAS DE DISCAGEM E COMPLETAMENTO DO TELEFONE ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Acosta e BNS reclamando de Delay ou falta de informações nas info que vem do banco de dados ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Insights IA - Cliente reportou que avaliações não estão sendo feitas desde a ativação (há alguns dias atrás) - Cliente ID 8493 MADM NEGÓCIOS ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | gravação da ligação baixa no sistema e ao fazer o dowload ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | RELATÓRIOS DE LOGIN ESTÃO INVERTENDO DATAS E PASSANDO INFORMAÇÃO ERRADA NO CSV ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | LISTAS ESTÃO COMPLETANDO E O FRONT NÃO APONTA A CONCLUSÃO DELAS. ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | relatório de aproveitamento não traz as metricas corretas pra analise ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Nosso login da 3C+ buga quando passamos um tempo na empresa, sai do ADM e acessa a tela do cliente, removendo a possibilidade de voltar pra tela do impersonate da 3C, tendo que sair de tudo e logar de novo ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Insights IA - Critérios de Avaliação e Transcrição de áudio - Insights avaliou uma ligação que tem somente um \"alô\" do cliente com notas altas/Transcrição não funcionando em alguns trechos - Cliente ID 1032 Credrapido ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Qualificações/Renitência",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Caixa postal na URA ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Aba agentes ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Sem registro de ligação ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Número de Ramal aparece como utilizado mesmo após o excluir [PABX]",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Campaha - Dashboard Agentes - Quando o operador muda de Status, exemplo: \"Ocioso\" para \"Falando\", há um curto momento onde ele aparece com um tempo muito grande, voltando a ficar zerado depois -  Geral ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Relatórios - Agentes - Colunas de first_login e last_logout estão mostrando horários incorretos e aleatórios - Reportado por ID 7501 Serviços Cadastrais ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "DUVIDA | DADOS ENVIADOS POR API PELO BANCO PRA ACOSTA NÃO ESTÃO CHEGANDO ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Audios em lote quando baixados chegam vazios par ao cliente",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | PABX não interage com uma URA ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Não é possível selecionar uma data nos relatórios",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Relatórios - Agentes - Quantidade de agentes logados é diferente do que está sendo informado nos relatórios de agentes do dia - Cliente ID 5835 Kall Promotora",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Relatórios - Geral - Não está sendo possível selecionar mais do que 7 dias em qualquer relatório - Reportado por cliente ID 729 Domacc Intermediações ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | (Novo caso) Discador - Campanha - Dashboard de agentes não aparece nenhuma informação, mesmo com operadores logados na campanha e ligações sendo disparadas - Cliente ID 4741 OKUBO CONSÓRCIOS ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG - NÃO ABRE A FIXA DO CLIENTE",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | SMS TRAVADO",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | INSIGHTS IA | Paginação",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | NÃO ESTÁ SINALIZANDO O BEEP NO RAMAL DOS OPERADORES ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | TRIPLICANDO A QUANTIA DE NÚMEROS DO MAILING ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | RELATÓRIO DE AGENTES NÃO TRAZ A QUANTIA CERTA DE OPERADOR QUE LOGARAM NA CAMPANHA, AO BAIXAR O CSV A QUANTIA DE PESSOAS QUE LOGARAM NÃO BATE COM A QUE ESTÁ NO CSV ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | CHAMADA NÃO QUALIFICA  ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | OPERADOR TRAVADO ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | Discador - Campanha - Bug visual na dashboard de agentes impede a visualização dos mesmos, ligações continuam a ser disparadas normalmente (problema ocorre na criação de usuários por um gestor) - Cliente ID 410 UNIX CONSULTORIA",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "Recuperação de áudio completo de ligação | Senff - 291",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "Recuperação de áudio completo | Senff - 291",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "Recuperação de áudio completo | Senff - 291",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "Ligação nao localizada",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "Recuperação de áudio completo de ligação | Senff - 291",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "Solicitação de áudio completo de chamada | Senff - 291",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "Recuperação de chamada completa | Senff - 291",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "Recuperação de áudio de ligação completo | Senff - 291",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "Recuperação de áudio completo - Senff 291",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "ligações senff ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "ligação ano tem na 3c ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "Ligação faltante senff",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "ligação faltando pedaço ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "Ligação não localizada ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": " Ligação faltando minutos (41) 3323-2171\t",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | OPERADOR",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Campanhas",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Configurações | Integrações",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Configurações | Qualificações",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Vox | Gestor | Configurações | Equipes",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "3C | Login",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Carlos Henrique Marques",
+        "tasks": [
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "BUG | WhatsApp | Tela branca pro Op ao acessar o sistema",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Respostas rápidas",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Encaminhar",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Mensagem - Áudio",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Mensagem - Anexos - Áudio",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Mensagem - Anexos - Vídeo",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Mensagem - Anexos - Imagem",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Mensagem - Anexos - Documento",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - IA",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Mensagem - Texto",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Pesquisa na conversa",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Protocolo",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Em espera",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Conversa - Transferir",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Conversa - Finalizar",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Agente - Conversa - Iniciar",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Gestor - Mensagem rápida",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Omni | Whatsapp | Gestor - Configurações gerais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Erro ao exportar chat",
+            "due_date": "1722841200000"
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Falha ao iniciar chat com números internacionais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Falha ao iniciar chat com números internacionais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Mensagens do histórico não aparecem para agente",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Mensagens do histórico não aparecem para agente",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Eric Patrick",
+        "tasks": [
+          {
+            "project_name": "FI | Bugs QA",
+            "task_name": "Lentidão | Demora para carregar ",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Devops",
+            "task_name": "Deploy | 19/08/2024 - Hotfixes diversos - Omni",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Devops",
+            "task_name": "Deploy | 12/08/2024 - Hotfix - vox",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Devops",
+            "task_name": "Job Automático | Infra | Rodar um job automático para  excluir listas com status \"Reciclando\" a mais de 2 dias",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Devops",
+            "task_name": "BUG | Infra | Relatórios de ligações com falha, não chegam para os clientes.",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Devops",
+            "task_name": "Discovery | Infra | Relatório de Ligações e Gravações Senff com dados divergentes",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Devops",
+            "task_name": "FIX-VERSION | Infra | Homolog - Não está salvando a gravação de nenhuma ligação",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "José Pablo Streiski Neto",
+        "tasks": [
+          {
+            "project_name": "FI | URA Senff - Ligações",
+            "task_name": "ligação MADM",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Back | [Novo Painel VOZ] Ajustes que precisam ser feitos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Discovery | Back | Renitência - Entra em loop em alguns momentos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "(Correção) Back | Novo Painel VOZ | Configurações VOZ - Ajustes gerais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Discovery | Back | Divergência no relatório de ligações",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Back | SMS | Lista de SMS agendada sendo disparada logo após aprovada",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Front | Admin | Partners | Não está salvando a porcentagem correta que o front manda",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Back | Erro no AgentController",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Back | Intervalos | Erro de Sintaxe pro Op quando acessa campanha sem intervalos cadastrado",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Back | [PABX] - Supervisor - Liberar acesso à chamadas do PABX no relatório de ligações",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Back | Liberação de IP Make para automações no Admin ",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Back | Gravações em Lote | Cobrar",
+            "due_date": "1721890800000"
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | SMS | Disparando SMS sem ter saldo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Back | Gravações em Lote | Cobrar",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Back | [PABX] - Supervisor - Liberar acesso à chamadas do PABX no relatório de ligações",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | [PABX] Ligações que entram ao mesmo tempo estão sobrescrevendo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | BACK | Ranking de agentes não está aparecendo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Banco de Dados Espelho | Coluna CPF vazia - A.Costa Contact Center ID 6092 ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff",
+            "task_name": "lista vip senff",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff",
+            "task_name": "lista vip seff ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff",
+            "task_name": "Inclusão de números da lista VIP - Senff",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff",
+            "task_name": "Inclusão de números na lista VIP - Senff",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff",
+            "task_name": "lista vip senff ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff",
+            "task_name": "lista vip senff ",
+            "due_date": null
+          },
+          {
+            "project_name": "FI | URA Senff",
+            "task_name": "Inserir na lista VIP ",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Back | [PABX] Ramal gestor e supervisor",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Back | Receptivo | Números que são configurados para redirecionar para uma URA as Ligações estão sendo abandonadas",
+            "due_date": "1720422000000"
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | BACK | Ranking de agentes não está aparecendo",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Back | [PABX] Ligações que entram ao mesmo tempo estão sobrescrevendo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Receptivo | Números que são configurados para redirecionar para uma URA as Ligações estão sendo abandonadas",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Karoline Lima Machado",
+        "tasks": [
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | Oportunidades | Agente - Parte II",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | Oportunidades | Supervisor - Parte II",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Aba Atividades | Supervisor",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Atividades | Supervisor",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Produtos na Oportunidade | Supervisor",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Oportunidades | Supervisor",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Aba Atividades | Agente",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Oportunidades | Agente",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Atividades | Agente",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Produtos | Agente",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Aba Atividades | Gestor",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | Atividades | Gestor",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Oportunidades | Gestor",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Etapas | Gestor",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Funil | Gestor",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | CRM | Gestor | Produtos",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | Partners | Admin",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | Partners | Login",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | Partners | Fluxo PLG",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Plus | Chatbot | CRUD",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Gabriel de Lima Machado",
+        "tasks": [
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Receptivo | Ura Receptiva",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Receptivo | Ura Pós Atendimento",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Receptivo | Numeros Receptivos",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Configurações | Telefonia",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Receptivo | Filas Receptivas",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Configurações | Lista de bloqueio",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Configurações | Intervalos",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Configurações | Horários de Atendimento",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "VOX | Gestor | Configurações | Feedbacks",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "3C | Gestor | Usuários",
+            "due_date": null
+          },
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "3C | Recuperação de Senha",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Samuel Leutner",
+        "tasks": [
+          {
+            "project_name": "Regressivo automatizado - 3CPlus",
+            "task_name": "Front | Remoção do filtro `system_qualifications` no end point `/filters`",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIXVERSION 0.95.0 | Back | Números Receptivos | Limpar relação no Banco quando configurar um número para \"Nenhum\"",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIXVERSION 0.95.0 | Back | Números Receptivos | Limpar relação no Banco quando configurar um número para \"Nenhum\"",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Paula Yanagawa Nizer",
+        "tasks": [
+          {
+            "project_name": "AT | Genesis UI",
+            "task_name": "Implementar os átomos no projeto genesis-ui",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Falha ao carregar arquivo de áudio e ACK de áudio",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Front mostra mensagem de nenhum resultado",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Gestor não consegue acessar mensagens rápidas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Não aparecem todas as instâncias para transferência",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Erro ao enviar nota interna",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Link do CRM levando para tela incorreta",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "FEAT | Front | Retorno da F# the dash",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "BUG | Front | Erro ao mostrar quantidade de conversas a serem transferidas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Botão de transferir chat em grupos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "BUG | Front | Problema no botão de transferir conversas ao tentar desativar um usuário",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Tour guiado CRM",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Correção inadimplentes omni.",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Envio de requisição com instance_id undefined",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Erro ao clicar em chat transferido",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Texto explicando sobre envio de mensagem no WABA aparecendo em todos os grupos de canais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Não é possível utilizar a opção de iniciar conversa com vários números de uma vez",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Não está aparecendo a flag de enviado por dispositivo externo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Grupo de canais somente com WABA mostra como se estivesse enviando mensagem do Whats 3C+",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Alterar uma ação de transferência do chatbot altera todas as outras",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Front | Erro ao clicar em chat transferido",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Front | Não é possível utilizar a opção de iniciar conversa com vários números de uma vez",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Front | Texto explicando sobre envio de mensagem no WABA aparecendo em todos os grupos de canais",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Front | Não está aparecendo a flag de enviado por dispositivo externo",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Front | Envio de requisição com instance_id undefined",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Alterar uma ação de transferência do chatbot altera todas as outras",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Front | Grupo de canais somente com WABA mostra como se estivesse enviando mensagem do Whats 3C+",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "FRONT | Correção do WABA",
+            "due_date": "1720162800000"
+          }
+        ]
+      },
+      {
+        "user_name": "Eliézer Buczak Boeira",
+        "tasks": [
+          {
+            "project_name": "AT | Genesis UI",
+            "task_name": "Mapear possíveis testes para os átomos iniciais do projeto (Classes CSS)",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "FIXVERSION 0.46.0 | Front | 3C Voice & Download de Relatórios de Usuários com tela cinza",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "FIXVERSION 0.46.0 | Front | Configurações Horário de Atendimento - Voltar para tela inicial de Horários ao excluir um",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "FIXVERSION 0.46.0 | Front | Configurações Usuários - Modal de exclusão aparece ao editar qualquer coisa",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Front | [PABX] Função “Enviar para Grupo de Ramais” na URA receptiva - Na edição da Ura não traz todas as filas e grupos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Front | Configurações | Feedbacks | Ajustar o campo descrição e avisos para retornar o novo limite do back",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Front | Admin | Impersonate | Estourando erros no console",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Front | [PABX] | Criação/Edição de Grupo de Ramais | Ajustar campos no Modo de Distribuição",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | SMS | Voltar com o botão Inciar - para disparar os SMS's após aprovado",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | SMS | Voltar com o botão Inciar - para disparar os SMS's após aprovado",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | Campanha - Listas URA - Dash de métricas das listas - Ajustar cabeçalhos estão nos campos errados",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | [2FA] Atualizar token expirado, redirecionar para a tela inicial direto",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Card de Chamadas Improdutivas não está sendo chamado",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Feedbacks | Ajustar payload de null para string",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | [PABX] Função “Enviar para Grupo de Ramais” na URA receptiva",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Receptivo | Números Receptivos | Adicionar validações no front para permitir mostrar a lista de números que estão no padrão antigo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Melhoria | Front | Campanhas | Concluir número ao Falhar",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Melhoria | Front | Campanhas | Concluir número ao Falhar",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Receptivo | Números Receptivos | Adicionar validações no front para permitir mostrar a lista de números que estão no padrão antigo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | URA Receptiva | Ajustar lógica para concatenar o nome da Fila Receptiva separado com \"-\"",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Correção | Front | Gerenciamento de IP",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | Campanhas | Ura Ativa - Reduzir visualização do nome da Ura se for muito grande",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | Campanhas | Ura Ativa - Reduzir visualização do nome da Ura se for muito grande",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Receptivo ➝ Números Receptivos ➝ Ajustar as colunas das tabelas dos números para conforme o design no projeto:",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Números Receptivos configurados com o PABX - Ao fazer qualquer edição, estoura erro de sintaxe porque o front está está enviando o objeto completo do grupo e não o ID.",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Fron |  Relatório de agendamentos/ligações | Filtro de campanhas não esta sendo respeitado no CSV",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Fron |  Relatório de agendamentos/ligações | Filtro de campanhas não esta sendo respeitado no CSV",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | Card Improdutivas - Ajustar as cores conform a %",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | Card Improdutivas - Ajustar as cores conform a %",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Front | Card de Chamadas Improdutivas não está sendo chamado",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Front | Feedbacks | Ajustar payload de null para string",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "BUG | Front | Campanha - Listas URA - Dash de métricas das listas - Ajustar cabeçalhos estão nos campos errados",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "BUG | Front | SMS | Voltar com o botão Inciar - para disparar os SMS's após aprovado",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Correção | Front | Gerenciamento de IP",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "BUG | Front | URA Receptiva | Ajustar lógica para concatenar o nome da Fila Receptiva separado com \"-\"",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "BUG | Front | PABX | Números Receptivos - Ajustes gerais",
+            "due_date": "1720681200000"
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Front | Usuários | Gerenciamento de IP - Remover aviso de IP e mostrar select de excessões",
+            "due_date": "1720767600000"
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "BUG | Front | [2FA] Atualizar token expirado, redirecionar para a tela inicial direto",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Allan Oliveira",
+        "tasks": [
+          {
+            "project_name": "AT | Genesis UI",
+            "task_name": "Verificar a utilidade da biblioteca VueUse no projeto",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Genesis UI",
+            "task_name": "Documentação",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Erro quando o agente tenta criar oportunidade",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Telefone sendo duplicado ao adicionar um novo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Problema ao editar produtos de uma oportunidade",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "BUG | Front | F#ck the Dashboard sobrepõe oportunidades no CRM",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Corrigir bloqueio de datas no relatório de conversas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Barra para ver todas as etapas não chega ao fim",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Não é possível visualizar todas as oportunidades de uma etapa",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Função de pesquisar no funil muito lenta",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFEAT | Front | Remover possibilidade de selecionar datas anteriores ao dia 02/08/2024",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "BUG | Front | Erros nos relatórios novos (Agentes e de Grupo de Canais)",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "BUG | Front | Pesquisar páginas muito antigas não funciona",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Problema com instanciação de varivável no CRM",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Websocket não é desconectado quando sessão é finalizada",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Websocket não é desconectado quando sessão é finalizada",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | Tamanho da tela influenciando na visualização das oportunidades",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Dashboard",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Ciclo médio de vendas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Oportunidades em andamento",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Taxa de progresso",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | CRM | Melhorias visuais | Kanban e Oportunidade Part2",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Ajuste paginação Funnel",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Ganhos do periodo",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Front | Websocket não é desconectado quando sessão é finalizada",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Matheus Popolin",
+        "tasks": [
+          {
+            "project_name": "AT | Genesis UI",
+            "task_name": "Atualizar Bootstrap e Sass",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Genesis UI",
+            "task_name": "Integrar o Genesis UI  dentro do application-front-end",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Front não está tratando informações da oportunidade",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Erro no warm up do Omnichannel",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Erro ao trocar de chat aberto",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Problema nos toasts",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Front mostrando id do grupo de critérios",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Não carrega opções das configurações do Insights IA do omni",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Erro ao finalizar chats",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Front mostrando informações sem tratamento",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | Caixas de texto renderizando HTML e colando texto com HTML",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "BUG | Front | Front está renderizando quoted_msg vazio",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Front | WABA - Chats iniciados da fila esperam enviar template",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "BUG | Front | Opção Omnichannel indisponível para empresas com idioma inglês",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | Padrão dos filtros como \"Todos\"",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FRONT | Correção do WABA",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Tags \"O retorno\"",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Erro ao tentar abrir histórico de pagamentos no partner",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Atividades não carrega em empresa de prod",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Aviso de envio de mensagem WABA aparecendo em chats do ultramsg",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "BUG | Front | Padrão dos filtros como \"Todos\"",
+            "due_date": "1722495600000"
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Front | Atividades não carrega em empresa de prod",
+            "due_date": "1721804400000"
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Front | Erro ao tentar abrir histórico de pagamentos no partner",
+            "due_date": "1721631600000"
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Front | Aviso de envio de mensagem WABA aparecendo em chats do ultramsg",
+            "due_date": "1721631600000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Implementação Active Campaign",
+            "due_date": "1719298800000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Integração Stripe",
+            "due_date": "1720162800000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Estudar ferramenta de DevSecOps para gerenciamento das credenciais",
+            "due_date": "1717138800000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Desenvolvimento da Aplicação",
+            "due_date": "1717743600000"
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Pipedrive - Make/API",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "ClickUp - API",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Matheus Rocha",
+        "tasks": [
+          {
+            "project_name": "AT | Genesis UI",
+            "task_name": "Criar o README do projeto",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Genesis UI",
+            "task_name": "Vitest | Testes unitários e testes de integração",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "(Correção) Front | Novo Painel VOZ | Configurações VOZ - Ajustes gerais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "(Correção) Front | [Tela do Agente] - Múltiplas correções na feature",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Front | Partners | Financeiro - Ajustar reload na página sempre que uma solicitação for Aprovada/Reprovada",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "FIXVERSION 0.46.0 | Front | Admin - Cadastro Empresas - Ao atualizar o país, não está atualizando a linguagem",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Front | Fixar coluna \"agentes\" no relatório de intervalos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Front | [PABX] Não interage com uma URA, não envia DTMF ",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Relatórios - Geral - Date time picker está limitado a 7, o regular é no mín 30 dias",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Front | Admin | Partner | Ajustes em Cadastro e Listagem de Partners",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Front | Admin | Partner | Acessar dados de pagamento - quebra função no front e fica com tela cinza",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Front | Insights IA - Paginação",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Front | Dash Campanhas | Contador dos Status dos Operadores com comportamento incorreto ",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Front | Modo Pró | Renitência",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Atualização tela agente",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Atualização tela agente",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Atualização tela agente p.2",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Limite de ligações por identificador com renitência",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Limite de ligações por identificador com renitência",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Destravar tela do front | Não está disparando evento, fazendo com que a tela fique travada no TPA Manual",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Alteração Relatório Intervalos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Campanhas | Subir Listas | Mostrando colunas que desabilitadas na hora de subir a lista pro Agente quando entra ligação",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Lista de Bloqueio | Ajustar os dados no Payload para receber lista de números",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Ura Ativa | Select de Horário de Atendimento não está funcionando",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Intervalos - Ajustar listagem para ramais excluídos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Modo Pró | Renitência",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Modo Pró | Renitência",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Flags Produtiva, Improdutiva e NR17",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Flags Produtiva, Improdutiva e NR17",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Comportamentos do intervalo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Gestor pode tirar o agente da pausa",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Intervalo automático",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Intervalos | Dash da Campanha | Gestor/Super Não mostrar intervalos automáticos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Correção | Front | Insights IA | Ajustar texto e nomes de campanhas sobrepondo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Correção | Front | Insights IA | Ajustar texto e nomes de campanhas sobrepondo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Insights IA | Ajustar paginação das ligações",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Insights IA | Ajustar paginação das ligações",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | Admin - Histórico de alterações, atualizar data de bloqueio",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | Admin - Histórico de alterações, atualizar data de bloqueio",
+            "due_date": "1720767600000"
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Impedir uso simultâneo do WebPhone e Ramal SIP",
+            "due_date": "1719558000000"
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Novo painel VOZ",
+            "due_date": "1719558000000"
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Front | Destravar tela do front | Não está disparando evento, fazendo com que a tela fique travada no TPA Manual",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Front | Lista de Bloqueio | Ajustar os dados no Payload para receber lista de números",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Front | Ura Ativa | Select de Horário de Atendimento não está funcionando",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Front | Intervalos - Ajustar listagem para ramais excluídos",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Front | Campanhas | Subir Listas | Mostrando colunas que desabilitadas na hora de subir a lista pro Agente quando entra ligação",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Front | Modo Pró | Renitência",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Front | Intervalos | Dash da Campanha | Gestor/Super Não mostrar intervalos automáticos",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Correção | Front | Insights IA | Ajustar texto e nomes de campanhas sobrepondo",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Bruno Garcia",
+        "tasks": [
+          {
+            "project_name": "AT | Vox",
+            "task_name": "DevTask | Back | [PABX - DASH] Ao selecionar um grupo de ramais preciso da quantidade de ligações de cada agente e sua média de tempo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Hotfix | VOX | Melhoria de performance Insights IA",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "FIXVERSION 0.96.0 | Back | Campanhas - Subir Listas na campanha e Lista de URA está deixando nas inativas qunando ainda não atualizaou contatos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "FIXVERSION 0.96.0 | Back | Receptivo - Filas Receptivas - Não está enviando o status correto dos operadores, só atualiza via socket",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "FIXVERSION 0.96.0 | Back | Admin - Cadastro Empresas - Ao atualizar o país, está alterando a linguagem para todos os admins",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "FIXVERSION 0.96.0 | Back | Select's onde devem trazer somente agentes está trazendo gestores também",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "(Correção) Back | [PABX] Enviar para grupo de ramais na ura receptiva - Está desligando a chamada quando solicita envio para o grupo de ramais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Back | Novo endpoint para Relatório de Intervalos - Permitir buscar para todas as campanhas via API",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Back | Configurações | Usuários | Reativando sem Ramal",
+            "due_date": "1722927600000"
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "DevTask | Back | [PABX - DASH] Corrigir retorno de end-point para Dashboard de Grupo de Ramais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "DevTask | Back | [PABX - DASH] Adicionar evento quando o agente ativa ou desativa o ramal",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Criar endpoint que traga os fusos horários disponíveis na plataforma",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Back | Melhorias IA | Alterar endpoint para atualização de licenças",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Limite de ligações mensais e frequência diária por agente",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Nova tela de rotas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Painel VOZ - Erro no endpoint quando passa o filtro de ordenação por conversão",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Adicionar tempo de URA de PÓS ATENDIMENTO nas informações detalhadas da ligação no relatório de ligações",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Correção | Back | Melhorias IA - Remover balanço proporcional; verificar loop e verificar erro de sintaxe",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Insights IA | Não reconhece arquivo JSON",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Alteração Relatório Intervalos - contator de ocorrências de intervalo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Destravar tela do front | Ajustar endpoint com mensagem correta no TPA Manual",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Intervalos | Retornar a somatória do intervalo pelo id; Intervalos indefinidos não são somados",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Intervalos - Ajustar listagem para ramais excluídos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Intervalos | Ajuste no acesso Supervisor",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Back | Insights IA - Critérios criados pelo cliente e que estão sem o complemento de IA não estão sendo avaliados. Cliente TESTE ID 7937 GOMESCOBRA",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Correção | Back | Melhoria IA - Ajustar regra de avaliação diária",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Comportamentos do intervalo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Comportamentos do intervalo",
+            "due_date": "1718953200000"
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIXVERSION 0.95.0 | Back | Insights IA | Tela Branca ao acessar. Trocar o retorno do endopoint de 204 - Ok para 204",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Back | Insights IA | Não reconhece arquivo JSON",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Back | Destravar tela do front | Ajustar endpoint com mensagem correta no TPA Manual",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Back | Intervalos - Ajustar listagem para ramais excluídos",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Back | Intervalos | Retornar a somatória do intervalo pelo id; Intervalos indefinidos não são somados",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Back | Relatorio Intervalos",
+            "due_date": "1721804400000"
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Back | Intervalos | Ajuste no acesso Supervisor",
+            "due_date": "1721631600000"
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Retornar na api se o agente solicitou o retorno do intervalo",
+            "due_date": "1721286000000"
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Correção | Back | Melhorias IA - Remover balanço proporcional; verificar loop e verificar erro de sintaxe",
+            "due_date": "1720767600000"
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Painel VOZ - Erro no endpoint quando passa o filtro de ordenação por conversão",
+            "due_date": "1720767600000"
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Back | Insights IA - Critérios criados pelo cliente e que estão sem o complemento de IA não estão sendo avaliados. Cliente TESTE ID 7937 GOMESCOBRA",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Relatorio Intervalos",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Luís Alexandre Alves Pinheiro",
+        "tasks": [
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Adicionar Content Security Policy",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Ativação Insigths IA - Gravações estéreo",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Isaac Kosmos",
+        "tasks": [
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Back | Admin | Partners - Ajustar contagem de Clientes Vinculados",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Back | Partners - Vindi | Atualizar company_id na vindi_customers quando for alterado a empresa no Vindi",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "BUG | Back | Partner | Alterar retorno da requisição para 422 e informar que o saque não é possível por que o contrato ainda não foi assinado ",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "(Correção) Back | E-mail Partners | Ajustar Design",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Back | BUG | E-mail indo quebrado no partners",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Back | Relatório de Agentes | Dados divergentes nos campos NR17 - Improdutivo - Produtivo E no CSV a quantia de operadores é menor que a apresentada no Front.",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Back | Subir Mailing | Cria apenas um Chunk - subindo apenas 5 mil números",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Inserir o atributo work_break_exit_pending no endpoint GET /agents/status/metrics/total",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Back | Alteração local de Discagem Horizontal | Cobrar | Retorna false mesmo o front mandando true",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "HOTFIX | Back | Empresas | Liberação Temporária",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Back | Lista de Bloqueio | Adicionar/Remover números; Pesquisar Números",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Back | Relatórios | Métricas dos Agentes | NR17 | Improdutivo | Produtivo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Vox",
+            "task_name": "Incluir campo extension_id em 2 endpoints",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Subir Mailing | Cria apenas um Chunk - subindo apenas 5 mil números",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Novas métricas no relatório de agentes - OriginalCob",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Back | Sistema não removeu números inválidos e alterou outros",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Importação de Mailing - Não está subindo números no mailing",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Relatório de Agentes | Métricas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Front | Usuários | Gerenciamento de IP - Remover aviso de IP e mostrar select de excessões",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "DevTask | Back | Relatório de ligações > Gerar CSV > Incluir opção de grupo de ramais",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Back | Relatório de Agentes | Métricas",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "HOTFIX | Back | Importação de Mailing - Não está subindo números no mailing",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "FIXVERSION | BACK | Prefixo 9 não é inserido ao subir mailing",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIXVERSION | BACK | Prefixo 9 não é inserido ao subir mailing",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Back | Discador - Mailing - Número \"9\" não está sendo inserido de maneira automática nos números inseridos na campanha, gerando erro ao tentar discar para os referidos números - Cliente ID 6935 - Open Credit ",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Downsell PABX",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Taxa de conversão",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | Documentação",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | Taxa de conversão",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Diogo Hartmann",
+        "tasks": [
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Back | ARI - Ligações Manuais Mudas",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Marieli Ferreira",
+        "tasks": [
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | [PABX] Enviar para grupo de ramais na ura receptiva",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | [PABX] Enviar para grupo de ramais na ura receptiva",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Adicionar filtro de ordenação pelo campo de último login na listagem de usuários",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Adaptar fluxo para que seja possível o gestor realizar chamadas no grupo de ramais",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Back | [PABX] Enviar para grupo de ramais na ura receptiva",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Back | [RECP/PABX] Recebendo e realizando chamadas externas (gestor)",
+            "due_date": null
+          },
+          {
+            "project_name": "Vox 12",
+            "task_name": "Back | Permitir ordenar agentes pelo campo último login",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | API permite colocar equipe sem função Whatsapp",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | API não retornar informação de mensagem apagada",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Opção de reiniciar chat transferindo para fila",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "BUG | Back | Erro ao encaminhar mensagem",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Erro ao iniciar chat pela discadora",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Não é possível responder mensagens em grupos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | API está permitindo transferência de chats de grupos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Mensagens enviadas por dispositivo externo não iniciam chat",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Não é possível enviar mensagens em chats transferidos para a fila de outro grupo de canais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Erro ao criar canal usando instância das disponíveis",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Adicionar logs em requisições do WABA",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Visualização Insights IA no Chat - 1º Parte",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Insights IA Conversas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Mensagens internas são enviadas para Grupos de Canais excluídos em grupos do WhatsApp",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Não é possível enviar mensagens em chats transferidos para a fila de outro grupo de canais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Erro ao criar canal usando instância das disponíveis",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Adicionar logs em requisições do WABA",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Mensagens internas são enviadas para Grupos de Canais excluídos em grupos do WhatsApp",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Back | Possível criar instância mesmo com grupo de canais deletado",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Back | Nome de canais não está vinculado ao nome do grupo de canais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Nome de instância não é alterada quando o nome do grupo de canais é editado",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Instâncias criadas sem remover linha do available_instances",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Não é possível excluir grupo de canais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Erro no dispatcher ao enviar mensagem por dispositivo externo para um grupo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Configurações Insights IA Conversas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Requisição de dashboard dando timeout",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "VALIDAÇÃO | Back - Alguns chats não estão recebendo mensagens de dispositivo externo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Query sobrecarregando Mongo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Retirar código de job para reiniciar instância",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | API retornando quoted_msg com body vazio",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Não está recebendo ack nem mensagens de números internacionais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "VALIDAÇÃO | Back - Alguns chats não estão recebendo mensagens de dispositivo externo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | [PABX] Enviar para grupo de ramais na ura receptiva",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Instance não fica como deleted após exclusão de grupo de canais",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Nome de instância não é alterada quando o nome do grupo de canais é editado",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Instâncias criadas sem remover linha do available_instances",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "BUG | Back | Nome de canais não está vinculado ao nome do grupo de canais",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Erro no dispatcher ao enviar mensagem por dispositivo externo para um grupo",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Não é possível excluir grupo de canais",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "BUG | Back | Possível criar instância mesmo com grupo de canais deletado",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Retirar código de job para reiniciar instância",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Query sobrecarregando Mongo",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Não está recebendo ack nem mensagens de números internacionais",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | API retornando quoted_msg com body vazio",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Requisição de dashboard dando timeout",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Mensagens internas são enviadas para Grupos de Canais excluídos em grupos do WhatsApp",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "VALIDAÇÃO | Back - Alguns chats não estão recebendo mensagens de dispositivo externo",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "David emanuel coelho chagas",
+        "tasks": [
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIXVERSION 0.43.0 | Front | Supervisor | Menu Lateral | Está duplicado Omnichannel para supervisor que tenha equipe e whatsapp",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIXVERSION 0.43.0 | Front | Discador | Geral | Criação e Edição | Ajustar tradução, campos em minúsculo e em inglês",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIXVERSION 0.43.0 | Front | Discador | Dash das Campanhas | Status dos Agentes está fora da cor Padrão e em Inglês",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIXVERSION 0.43.0 | Front | Login | Recuperação de Senha | Ajustar Reatividade quando a senha for repetida",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIXVERSION 0.43.0 | Front | Insights IA | Não está adicionando Palavras Chaves",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Leonardo De Lara",
+        "tasks": [
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Erro ao tentar fixar nota em produção",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Integração com RD Station não funciona",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Não é possível fixar nota interna no CRM",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Duplicando atividades",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Importação de csv não importa todas as linhas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Erro no contact_logs ao editar descrição de oportunidade",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Não é possível finalizar chats com o chatbot",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Erro ao enviar mensagens para grupos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BACK | CRM Dashboard",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Relatório de conversas retorna vazio se for array de agentes no payload",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Adicionar log ao não encontrar mensagem",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Tags \"O retorno\"",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Qualificação padrão criada para CRM não é do tipo CRM",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Novas oportunidades ",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Últimas oportunidades ganhas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Atividades concluídas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | CRM | Motivos de Perda",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Documentação",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Motivos de perda",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Adicionar log ao não encontrar mensagem",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Relatório de conversas retorna vazio se for array de agentes no payload",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Qualificação padrão criada para CRM não é do tipo CRM",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | Atividades concluídas",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | Motivos de perda",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | Novas oportunidades ",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | Últimas oportunidades ganhas",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | CRM | Motivos de Perda",
+            "due_date": "1709881200000"
+          }
+        ]
+      },
+      {
+        "user_name": "Gabriel Krysa",
+        "tasks": [
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | API não atualiza o status das instâncias que foram desconectadas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "Waba novo dispatcher",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | WABA - Erro no dispatcher quando o chatbot envia mensagem",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Enviando mensagem pelo canal errado (WABA)",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Erro ao enviar áudio no WABA",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | WABA não registra empresa no aplicativo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "BUG | Backend | Erro ao gerar relatório do omnichannel",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Gestor/Supervisor ser agente WABA",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Gestor e Supervisor com ações de Agente",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | Correções Waba",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Transcrevendo áudio mesmo com a opção desligada",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX (discovery) | Back | Não é possível acessar a oportunidade",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Front | Miniatura de vídeo em cima da seta de ações",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIX-VERSION | Back | Endpoint não retorna todos os grupos de canais para transferência para fila",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Múltiplos chats criados ao receber várias mensagens rapidamente",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIX-VERSION | Back | Coluna phone da tabela instances não está sendo alterada ao validar um grupo de canais",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Back | Chatbot -> Agente está conseguindo visualizar conversas ",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "FIX-VERSION | Front | Transferir NaN conversas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Chats bloqueados no redis",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Erro em retorno de função em prod",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | CRM | Melhorias Visuais |  Kanban | Empty States Part1",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Front | WABA",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Erro em retorno de função em prod",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Luiz Schons",
+        "tasks": [
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Erro no fluxo da dashboard do CRM",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "BUG | Back | Ciclo médio de vendas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Tour guiado obrigando criar funil em empresas que já têm funil",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "FEAT | Back | Retorno da F# the dash",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | Demora para concluir requisições no CRM",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "BUG | Back | Whatsapp dispatcher com informações de logs",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Omni+",
+            "task_name": "HOTFIX | Back | API de transcrição de áudio com problema",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Migration 2024_04_01_160327_add_column_protocol_number_on_contact_logs_table excluída",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | F#ck the Dash",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | API de transcrição de áudio não está atualizando transcrição no banco",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Ganhos do periodo",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Perdas por etapas",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Produtos",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Ciclo médio de vendas",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Migration 2024_04_01_160327_add_column_protocol_number_on_contact_logs_table excluída",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | API de transcrição de áudio não está atualizando transcrição no banco",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | Ciclo médio de vendas",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | Produtos",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | Ganhos do periodo",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | Perdas por etapas",
+            "due_date": null
+          }
+        ]
+      },
+      {
+        "user_name": "Tamara Suchodolak",
+        "tasks": [
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "BUG | Back | Quando o agente inicia um chat, não é enviado o evento para o gestor",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Alteração de contato não muda as informações de contato no chat",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "CORREÇÃO | Back | Gestor não consegue abrir mensagens do histórico",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | Alterar uma ação de transferência do chatbot altera todas as outras",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "HOTFIX | Back | API concatenando URL base com URL de áudio",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Testes de Versão",
+            "task_name": "Back | Correções Waba",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Alteração de contato não muda as informações de contato no chat",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "CORREÇÃO | Back | Gestor não consegue abrir mensagens do histórico",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | Alterar uma ação de transferência do chatbot altera todas as outras",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "HOTFIX | Back | API concatenando URL base com URL de áudio",
+            "due_date": null
+          },
+          {
+            "project_name": "Omni 12",
+            "task_name": "Back | Correções Waba",
+            "due_date": "1720076400000"
+          },
+          {
+            "project_name": "AT | Desenvolvimento Diogit",
+            "task_name": "Deixar o Core Genérico | Diogit",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Desenvolvimento Diogit",
+            "task_name": "Tela de Login e Signup | Diogit",
+            "due_date": "1722927600000"
+          }
+        ]
+      },
+      {
+        "user_name": "Lucas Marx",
+        "tasks": [
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Report de tráfego",
+            "due_date": "1734073200000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Merlin",
+            "due_date": "1719385200000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Definir Precificação da Ferramenta",
+            "due_date": "1715929200000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Semana Acadêmica de ADM | Campo Real",
+            "due_date": "1727161200000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Lista de tópicos para postagens",
+            "due_date": null
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Planejamento de Marketing",
+            "due_date": "1723014000000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "Identidade Squad Lab",
+            "due_date": "1723705200000"
+          },
+          {
+            "project_name": "Acompanhamento Lab",
+            "task_name": "LP's",
+            "due_date": "1724396400000"
+          }
+        ]
+      },
+      {
+        "user_name": "Rafael Blaka Schimanski",
+        "tasks": [
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Integração Marketing Acessio",
+            "due_date": "1720681200000"
+          },
+          {
+            "project_name": "Operação | Acessio | Atividades",
+            "task_name": "Marketing Acessio",
+            "due_date": "1715324400000"
+          }
+        ]
+      },
+      {
+        "user_name": "João Paulo Vasconcelos",
+        "tasks": [
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Alterar a unidade de medida do sistema de ano para mês",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Alteração tela de segurança",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Implementação da rota de redefinir senha no front",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Google - Implementações de Segurança | P1",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Task de Melhorias Visuais",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Implementação do Amplitude",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Implementações nos cruds da ferramenta",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Criação manual de ferramentas",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Nova organização da Infra",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Bolsão Stripe",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Homolagação Google Workspace",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "BACK | Stripe - Estudo e validação",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "BACK | Mensagens de erro do back em PT-BR",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Validação de E-mail",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Sellsy",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Copper",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Thryv",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Capsule",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Freshsales",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "3C Plus",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Salesflare",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Bitrix24",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Salesmate",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Crud de Usuários",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "RunRunIT",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Smartsheet",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "CRUD das Ferramentas",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Feedz",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Monday",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Google Workspace - Listagem de Ferramentas",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Salesloft",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Nectar CRM",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Agendor",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Ploomes",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Omie",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "RD Station CRM",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Convenia",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Google Workspace",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Zoho CRM",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Kommo",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Salesforce",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Hubspot",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Zoho",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Trello",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Jira",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Active Campaign",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Jetbrains",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Figma",
+            "due_date": null
+          },
+          {
+            "project_name": "Desenvolvimento",
+            "task_name": "Intercom",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Desenvolvimento Diogit",
+            "task_name": "Cadastro de Webhooks | Gitlab",
+            "due_date": null
+          },
+          {
+            "project_name": "AT | Desenvolvimento Diogit",
+            "task_name": "OAuth da aplicação | Gitlab",
+            "due_date": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team_name": "FiqOn",
+    "users": []
+  }
+]
